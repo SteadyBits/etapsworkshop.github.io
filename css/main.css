@@ -689,6 +689,35 @@ html {
   font: normal normal 10px/1.2em helvetica, arial, sans-serif;
   color: #777;
 }
+
+.row {
+  display: flex;
+}
+
+.column {
+  float: left;
+}
+
+.left {
+  width: 20%;
+}
+
+.right {
+  width: 80%;
+}
+
+.column2 {
+  float: left;
+}
+
+.left {
+  width: 40%;
+}
+
+.right {
+  width: 60%;
+}
+
 /* =============================================================================
    BASIC STYLES
    ========================================================================== */
